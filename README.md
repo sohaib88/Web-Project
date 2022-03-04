@@ -21,26 +21,6 @@ The application is composed of the following Features:
 * In the future it will also hold all shopping related and cart related dtaa of each user.
 
 
-**SCREENSHOTS:**
-
-Landing Page:
-
-![](src/assets/main-screen.png)
----
-Product Preview:
-
-![](src/assets/preview-page.png)
----
-Sign-in && Sign-Up Page:
-
-![](src/assets/signinup.png)
-
-Cart Section:
-
-![](src/assets/cart.png)
-
----
-
 ## Developed With
 
 * [Visual Studio Code](https://code.visualstudio.com/) - A source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring
